@@ -1,3 +1,6 @@
+# this repo is not maintained anymore, please refer to: [https://github.com/rnacentre/scDenorm_reproducibility](https://github.com/rnacentre/scDenorm_reproducibility)
+
+
 # scDenorm-reproducibility
 
 ## Overview
